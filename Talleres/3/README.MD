@@ -1,0 +1,4 @@
+--> (!) Entender el 1  y cambiar el codigo a lo de la foto
+--> Entender el 2
+--> (!) Subir el ejercicio 3 a github
+--> El 3 se puede optimizar el for hasta la mitad mas uno o incluso hasta la raiz
